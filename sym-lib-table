@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PN")(type "KiCad")(uri "${KIPRJMOD}/PN.kicad_sym")(options "")(descr "PowerNap generated symbols"))
+)
